@@ -5,6 +5,9 @@ body {
     overflow-x: hidden;
     display: inline;
     text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    color: #FFFFFF;
 }
 
 header {
